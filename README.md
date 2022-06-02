@@ -11,7 +11,7 @@
 
 I'm a staff software engineer on the Ruby Architecture team here at [GitHub :octocat:](https://github.com/github).
 
-I'm a committer for the [💎 Ruby](https://github.com/ruby/ruby) and [🚋 Rails](https://github.com/rails/rails) projects. I most like working on performance, hopefully I've made your code run faster too 🤗 
+I'm a [💎 Ruby](https://github.com/ruby/ruby) committer and on the [🚋 Rails](https://github.com/rails/rails) core team. I most like working on performance, hopefully I've made your code run faster too 🤗 
 
 <br/>
 
