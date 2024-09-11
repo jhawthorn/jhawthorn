@@ -12,9 +12,6 @@
 I'm a staff software engineer on the Ruby Architecture team here at [GitHub :octocat:](https://github.com/github).
 
 I'm a [💎 Ruby](https://github.com/ruby/ruby) committer and on the [🚋 Rails](https://github.com/rails/rails) core team. I like to spend as much time as possible working on performance. Hopefully I've made your code run faster too 🤗 
-
-<br/>
-
 <h4>A few Ruby projects I've made:</h4>
 
 * [📏 `vernier`](https://github.com/jhawthorn/vernier) is a next-generation Ruby profiler
@@ -25,14 +22,10 @@ I'm a [💎 Ruby](https://github.com/ruby/ruby) committer and on the [🚋 Rails
 * [🍔`pub_grub`](https://github.com/jhawthorn/pub_grub) is a Ruby port of Natalie Weizenbaum's PubGrub CDCL-based version solving algorithm, as used by bundler
 * [📧`dkim`](https://github.com/jhawthorn/dkim) is a Ruby implementation of email DKIM signiatures
 
-<br/>
-
 <h4>Some of my non-ruby open source projects:</h4>
 
 * [🔍 `fzy`](https://github.com/jhawthorn/fzy) is a fast and simple fuzzy text finder for the terminal. I wote fzy wanting a faster and more consistent algorithm than was available at the time, other tools have since adopted my algorithm. Fun fact: If you press `t` to find files in a GitHub repo that's fzy!
 * [🖼️ `meh`](https://github.com/jhawthorn/meh/) is a fast image viewer for X11 using raw XLib.
-
-<br/>
 
 <h4>I dabble in electronics ⚡:</h4>
 
