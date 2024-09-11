@@ -36,8 +36,6 @@ I'm a [💎 Ruby](https://github.com/ruby/ruby) committer and on the [🚋 Rails
 
 <h4>I dabble in electronics ⚡:</h4>
 
-⌨️ I designed a [USB controller to modernize Model M keyboards](https://www.johnhawthorn.com/2020/07/modelh-keyboard-controller/).
-
-⌨️ I [hand wired an ergodox-style keyboard](https://www.johnhawthorn.com/2020/05/building-a-homemade-keyboard/)
-
-☕ I [built an MQTT-enabled temperature controller for my espresso machine](https://github.com/jhawthorn/espresso)
+* ⌨️ I designed a [USB controller to modernize Model M keyboards](https://www.johnhawthorn.com/2020/07/modelh-keyboard-controller/).
+* ⌨️ I [hand wired an ergodox-style keyboard](https://www.johnhawthorn.com/2020/05/building-a-homemade-keyboard/)
+* ☕ I [built an MQTT-enabled temperature controller for my espresso machine](https://github.com/jhawthorn/espresso)
