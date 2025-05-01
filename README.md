@@ -9,7 +9,7 @@
 <h3 align="center">👋 Hi! I'm John Hawthorn</h3>
 
 
-I'm a staff software engineer on the Ruby Architecture team here at [GitHub :octocat:](https://github.com/github).
+I'm a senior staff software engineer on the Ruby Infrastructure team at [Shopify](https://github.com/Shopify). Previously I was here at [GitHub :octocat:](https://github.com/github).
 
 I'm a [💎 Ruby](https://github.com/ruby/ruby) committer and on the [🚋 Rails](https://github.com/rails/rails) core team. I like to spend as much time as possible working on performance. Hopefully I've made your code run faster too 🤗 
 <h4>A few Ruby projects I've made:</h4>
