@@ -18,7 +18,7 @@ I'm a [💎 Ruby](https://github.com/ruby/ruby) committer and on the [🚋 Rails
 * [🏎️ `rapidjson`](https://github.com/jhawthorn/rapidjson-ruby) is a fast JSON parser/serializer (based on the C++ RapidJSON library)
 * [🗑 `discard`](https://github.com/jhawthorn/discard) provides a simple soft-delete pattern for ActiveRecord.
 * [🏗️ `actionview_precompiler`](https://github.com/jhawthorn/actionview_precompiler) eager loads view templates at boot (really this should be upstreamed into Rails)
-* [🐑 `sheap`](https://github.com/jhawthorn/dkim) is a tool to analyze Ruby heaps
+* [🐑 `sheap`](https://github.com/jhawthorn/sheap) is a tool to analyze Ruby heaps
 * [🍔`pub_grub`](https://github.com/jhawthorn/pub_grub) is a Ruby port of Natalie Weizenbaum's PubGrub CDCL-based version solving algorithm, as used by bundler
 * [📧`dkim`](https://github.com/jhawthorn/dkim) is a Ruby implementation of email DKIM signiatures
 
