@@ -20,11 +20,11 @@ I'm a [💎 Ruby](https://github.com/ruby/ruby) committer and on the [🚋 Rails
 * [🏗️ `actionview_precompiler`](https://github.com/jhawthorn/actionview_precompiler) eager loads view templates at boot (really this should be upstreamed into Rails)
 * [🐑 `sheap`](https://github.com/jhawthorn/sheap) is a tool to analyze Ruby heaps
 * [🍔`pub_grub`](https://github.com/jhawthorn/pub_grub) is a Ruby port of Natalie Weizenbaum's PubGrub CDCL-based version solving algorithm, as used by bundler
-* [📧`dkim`](https://github.com/jhawthorn/dkim) is a Ruby implementation of email DKIM signiatures
+* [📧`dkim`](https://github.com/jhawthorn/dkim) is a Ruby implementation of email DKIM signatures
 
 <h4>Some of my non-ruby open source projects:</h4>
 
-* [🔍 `fzy`](https://github.com/jhawthorn/fzy) is a fast and simple fuzzy text finder for the terminal. I wote fzy wanting a faster and more consistent algorithm than was available at the time, other tools have since adopted my algorithm. Fun fact: If you press `t` to find files in a GitHub repo that's fzy!
+* [🔍 `fzy`](https://github.com/jhawthorn/fzy) is a fast and simple fuzzy text finder for the terminal. I wrote fzy wanting a faster and more consistent algorithm than was available at the time, other tools have since adopted my algorithm. Fun fact: If you press `t` to find files in a GitHub repo that's fzy!
 * [🖼️ `meh`](https://github.com/jhawthorn/meh/) is a fast image viewer for X11 using raw XLib.
 
 <h4>I dabble in electronics ⚡:</h4>
