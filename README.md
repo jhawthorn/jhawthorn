@@ -1,7 +1,7 @@
 <table align=center>
   <tr>
     <td align=center><a href="https://www.johnhawthorn.com/">🌐<br/>jhawthorn.com</td>
-    <td align=center><a href="https://twitter.com/jhawthorn">🐦<br/>@jhawthorn</a></td>
+    <td align=center><a href="https://bsky.app/profile/jhawthorn.com">🦋<br/>@jhawthorn.com</a></td>
     <td align=center><a href="mailto:john@hawthorn.email">📧<br/>john@hawthorn.email</a></td>
   </tr>
 </table>
